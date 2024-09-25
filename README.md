@@ -1,8 +1,8 @@
 
-# Project Title ✅
+# FocusTimer ✅
 
 Focus Timer Project built with CSS, HTML & JavaScript
-
+Stage 05 from RocketSeat 🚀
 
 ## 🔗 Links
 
