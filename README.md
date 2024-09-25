@@ -2,7 +2,7 @@
 # FocusTimer ✅
 
 Focus Timer Project built with CSS, HTML & JavaScript
-Stage 05 from RocketSeat 🚀
+##### Stage 05 from RocketSeat 🚀
 
 ## 🔗 Links
 
